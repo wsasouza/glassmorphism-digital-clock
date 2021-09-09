@@ -22,7 +22,7 @@ section::before {
   right: 20%;
   width: 450px;
   height: 450px;
-  border-radius: 50%;
+  border-radius: 10px;
   background: linear-gradient(#7159c1, #fa0afa);
   animation: animate 5s ease-in-out infinite;
 }

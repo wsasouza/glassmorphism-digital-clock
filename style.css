@@ -9,7 +9,7 @@ section {
   position: relative;
   width: 100%;
   height: 100vh;
-  background: #19172e;
+  background: #000;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -34,7 +34,7 @@ section::after {
   left: 20%;
   width: 350px;
   height: 350px;
-  border-radius: 50%;
+  border-radius: 20px;
   background: linear-gradient(#f5dd04, #ec1c09);
   animation: animate 5s ease-in-out infinite;
   animation-delay: -2.5s;
